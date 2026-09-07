@@ -1,5 +1,5 @@
-# Actividad-6-Comunicacion-Asertiva
-# Actividad Práctica 6: Mejora de la Comunicación en el Levantamiento de Requisitos
+# Actividad-4-Comunicacion-Asertiva
+# Actividad Práctica 4: Mejora de la Comunicación en el Levantamiento de Requisitos
 
 **Universidad San Carlos de Guatemala**  
 **Facultad de Ingeniería**  
